@@ -1,0 +1,22 @@
+[
+    {
+        "trial": 0,
+        "loss": 0.6931471116553085,
+        "params": {
+            "learning_rate": 5.313401180185412e-05,
+            "weight_decay": 1.116092803144322e-06,
+            "batch_size": 8,
+            "model": "VGG19"
+        }
+    },
+    {
+        "trial": 1,
+        "loss": 0.6779947851876976,
+        "params": {
+            "learning_rate": 2.2012211629918463e-05,
+            "weight_decay": 1.549668920821374e-06,
+            "batch_size": 4,
+            "model": "VGG19"
+        }
+    }
+]

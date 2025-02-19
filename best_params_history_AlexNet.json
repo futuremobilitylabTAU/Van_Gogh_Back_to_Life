@@ -1,0 +1,42 @@
+[
+    {
+        "trial": 2,
+        "loss": 0.6739577318623196,
+        "params": {
+            "learning_rate": 3.020842532706549e-05,
+            "weight_decay": 1.2852718112074654e-05,
+            "batch_size": 8,
+            "model": "AlexNet"
+        }
+    },
+    {
+        "trial": 10,
+        "loss": 0.6733226219446673,
+        "params": {
+            "learning_rate": 3.119404251142601e-05,
+            "weight_decay": 3.973381283264181e-05,
+            "batch_size": 8,
+            "model": "AlexNet"
+        }
+    },
+    {
+        "trial": 13,
+        "loss": 0.6712148422287679,
+        "params": {
+            "learning_rate": 1.3146815506531705e-05,
+            "weight_decay": 3.3494254041695756e-05,
+            "batch_size": 8,
+            "model": "AlexNet"
+        }
+    },
+    {
+        "trial": 14,
+        "loss": 0.6704581181874261,
+        "params": {
+            "learning_rate": 1.0369291948014812e-05,
+            "weight_decay": 8.292217788444539e-05,
+            "batch_size": 4,
+            "model": "AlexNet"
+        }
+    }
+]
