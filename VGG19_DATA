@@ -1,0 +1,36 @@
+--- Fold 1/5 ---
+Epoch 1: Train Loss = 0.2931, Val Loss = 0.2175, Train Acc = 0.8825, Val Acc = 0.9097, Val F1 = 0.6346, Val AUC = 0.9379
+Epoch 2: Train Loss = 0.1964, Val Loss = 0.2012, Train Acc = 0.9203, Val Acc = 0.9239, Val F1 = 0.7588, Val AUC = 0.9518
+Epoch 3: Train Loss = 0.1724, Val Loss = 0.1721, Train Acc = 0.9344, Val Acc = 0.9334, Val F1 = 0.7730, Val AUC = 0.9599
+Epoch 4: Train Loss = 0.1348, Val Loss = 0.1799, Train Acc = 0.9467, Val Acc = 0.9334, Val F1 = 0.7572, Val AUC = 0.9610
+Epoch 5: Train Loss = 0.1195, Val Loss = 0.1867, Train Acc = 0.9558, Val Acc = 0.9295, Val F1 = 0.7359, Val AUC = 0.9581
+Epoch 6: Train Loss = 0.1035, Val Loss = 0.1680, Train Acc = 0.9602, Val Acc = 0.9255, Val F1 = 0.7638, Val AUC = 0.9679
+Epoch 7: Train Loss = 0.0825, Val Loss = 0.1833, Train Acc = 0.9681, Val Acc = 0.9398, Val F1 = 0.7751, Val AUC = 0.9673
+Epoch 8: Train Loss = 0.0836, Val Loss = 0.2077, Train Acc = 0.9659, Val Acc = 0.9342, Val F1 = 0.7608, Val AUC = 0.9608
+Epoch 9: Train Loss = 0.0744, Val Loss = 0.2168, Train Acc = 0.9709, Val Acc = 0.9358, Val F1 = 0.7692, Val AUC = 0.9516
+--- Fold 2/5 ---
+poch 1: Train Loss = 0.2913, Val Loss = 0.2463, Train Acc = 0.8838, Val Acc = 0.8994, Val F1 = 0.6613, Val AUC = 0.9269
+Epoch 2: Train Loss = 0.1948, Val Loss = 0.2192, Train Acc = 0.9191, Val Acc = 0.9089, Val F1 = 0.7484, Val AUC = 0.9480
+Epoch 3: Train Loss = 0.1578, Val Loss = 0.2038, Train Acc = 0.9397, Val Acc = 0.9271, Val F1 = 0.7830, Val AUC = 0.9479
+Epoch 4: Train Loss = 0.1320, Val Loss = 0.2142, Train Acc = 0.9463, Val Acc = 0.9223, Val F1 = 0.7689, Val AUC = 0.9523
+Epoch 5: Train Loss = 0.1175, Val Loss = 0.2429, Train Acc = 0.9526, Val Acc = 0.9152, Val F1 = 0.7084, Val AUC = 0.9446
+Epoch 6: Train Loss = 0.0987, Val Loss = 0.2164, Train Acc = 0.9635, Val Acc = 0.9120, Val F1 = 0.7571, Val AUC = 0.9596
+--- Fold 3/5 ---
+Epoch 1: Train Loss = 0.3010, Val Loss = 0.2090, Train Acc = 0.8777, Val Acc = 0.9136, Val F1 = 0.7348, Val AUC = 0.9478
+Epoch 2: Train Loss = 0.1992, Val Loss = 0.1858, Train Acc = 0.9219, Val Acc = 0.9239, Val F1 = 0.7576, Val AUC = 0.9567
+Epoch 3: Train Loss = 0.1617, Val Loss = 0.1678, Train Acc = 0.9388, Val Acc = 0.9342, Val F1 = 0.7909, Val AUC = 0.9646
+Epoch 4: Train Loss = 0.1387, Val Loss = 0.1936, Train Acc = 0.9463, Val Acc = 0.9286, Val F1 = 0.7414, Val AUC = 0.9600
+Epoch 5: Train Loss = 0.1157, Val Loss = 0.1757, Train Acc = 0.9546, Val Acc = 0.9366, Val F1 = 0.7980, Val AUC = 0.9624
+Epoch 6: Train Loss = 0.0982, Val Loss = 0.1753, Train Acc = 0.9616, Val Acc = 0.9342, Val F1 = 0.7775, Val AUC = 0.9659
+--- Fold 4/5 ---
+Epoch 1: Train Loss = 0.2953, Val Loss = 0.3350, Train Acc = 0.8763, Val Acc = 0.8295, Val F1 = 0.6208, Val AUC = 0.9308
+Epoch 2: Train Loss = 0.1877, Val Loss = 0.2325, Train Acc = 0.9273, Val Acc = 0.9080, Val F1 = 0.6548, Val AUC = 0.9327
+Epoch 3: Train Loss = 0.1622, Val Loss = 0.2446, Train Acc = 0.9372, Val Acc = 0.9262, Val F1 = 0.7365, Val AUC = 0.9406
+Epoch 4: Train Loss = 0.1346, Val Loss = 0.2514, Train Acc = 0.9453, Val Acc = 0.9112, Val F1 = 0.7295, Val AUC = 0.9358
+Epoch 5: Train Loss = 0.1043, Val Loss = 0.2601, Train Acc = 0.9582, Val Acc = 0.9191, Val F1 = 0.7135, Val AUC = 0.9341
+--- Fold 5/5 ---
+Epoch 1: Train Loss = 0.2884, Val Loss = 0.2084, Train Acc = 0.8825, Val Acc = 0.9183, Val F1 = 0.7282, Val AUC = 0.9465
+Epoch 2: Train Loss = 0.1942, Val Loss = 0.1886, Train Acc = 0.9231, Val Acc = 0.9294, Val F1 = 0.7855, Val AUC = 0.9574
+Epoch 3: Train Loss = 0.1628, Val Loss = 0.1716, Train Acc = 0.9348, Val Acc = 0.9310, Val F1 = 0.7763, Val AUC = 0.9620
+Epoch 4: Train Loss = 0.1346, Val Loss = 0.1724, Train Acc = 0.9491, Val Acc = 0.9413, Val F1 = 0.7898, Val AUC = 0.9621
+Epoch 5: Train Loss = 0.1216, Val Loss = 0.2024, Train Acc = 0.9514, Val Acc = 0.9223, Val F1 = 0.7487, Val AUC = 0.9542
