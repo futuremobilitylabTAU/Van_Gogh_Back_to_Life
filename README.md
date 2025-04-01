@@ -69,10 +69,10 @@ Analogous to the AlexNet file, this documents **VGG19** hyperparameter search re
 
 # Part 2: Neural Style Transfer
 
-**Style_Transfer_V2.ipynb**  
+### `Style_Transfer_V2.ipynb`
 Implements neural style transfer using PyTorch. Includes loading content/style images, computing losses, and optimizing the generated image using gradients.
 
-**Style_Transfer_Evaluation.ipynb**  
+### `Style_Transfer_Evaluation.ipynb`
 Compares different NST results. Includes side-by-side visualizations and optional metric-based evaluation.
 
 ---
