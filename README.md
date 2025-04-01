@@ -1,7 +1,7 @@
 <table>
   <tr>
-    <th align="center">Before (AlexNet)</th>
-    <th align="center">After (VGG19)</th>
+    <th align="center">Before </th>
+    <th align="center">After (Van Gogh Style)</th>
   </tr>
   <tr>
     <td align="center">
