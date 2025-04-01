@@ -1,12 +1,3 @@
-## Arthurs
-
-Thanks to all the contributors who made this project possible! 👇
-
-<a href="https://github.com/futuremobilitylabTAU/Van_Gogh_Back_to_Life/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=futuremobilitylabTAU/Van_Gogh_Back_to_Life" />
-</a>
-
-
 # Part 1: CNN Network Training & Evaluation – AlexNet & VGG19
 
 <table>
@@ -149,3 +140,12 @@ Now you can use JupiterLab for runing the filies!
 4. Use `Traning_Hyper.ipynb` to search for optimal hyperparameters.
 5. Use `Traning_Models_V3.ipynb` to train models.
 6. Run the style transfer notebooks with your own images to generate styled outputs.
+
+## Arthurs
+
+
+<a href="https://github.com/futuremobilitylabTAU/Van_Gogh_Back_to_Life/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=futuremobilitylabTAU/Van_Gogh_Back_to_Life" />
+</a>
+
+
