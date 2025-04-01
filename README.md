@@ -1,18 +1,3 @@
-<table>
-  <tr>
-    <th align="center">Before </th>
-    <th align="center">After (Van Gogh Style)</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/futuremobilitylabTAU/Van_Gogh_Back_to_Life/blob/main/Content/18.jpg?raw=true" height="300"/>
-    </td>
-    <td align="center">
-      <img src="https://github.com/futuremobilitylabTAU/Van_Gogh_Back_to_Life/blob/main/VGG19/18.jpg?raw=true" height="300"/>
-    </td>
-  </tr>
-</table>
-
 
 
 # Part 1: Neural Network Training & Evaluation – AlexNet & VGG19
@@ -85,6 +70,21 @@ Analogous to the AlexNet file, this documents **VGG19** hyperparameter search re
 ---
 
 # Part 2:  Style Transfer
+
+<table>
+  <tr>
+    <th align="center">Before </th>
+    <th align="center">After (Van Gogh Style)</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/futuremobilitylabTAU/Van_Gogh_Back_to_Life/blob/main/Content/18.jpg?raw=true" height="300"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/futuremobilitylabTAU/Van_Gogh_Back_to_Life/blob/main/VGG19/18.jpg?raw=true" height="300"/>
+    </td>
+  </tr>
+</table>
 
 ### `Style_Transfer_V2.ipynb`
 Implements neural style transfer using PyTorch. Includes loading content/style images, computing losses, and optimizing the generated image using gradients.
