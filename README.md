@@ -1,10 +1,9 @@
+# Part 1: CNN Network Training & Evaluation – AlexNet & VGG19
 
+This repository contains code, data, and results for training and evaluating convolutional neural networks (CNNs), specifically **AlexNet** and **VGG19**, on a dataset of **Postmodern-style paintings**.
 
-# Part 1: Neural Network Training & Evaluation – AlexNet & VGG19
+The goal is to compare model performance and evaluate their ability to **classify whether a given painting is by Van Gogh or not**.
 
-This repository contains code, data, and results for training and evaluating convolutional neural networks (CNNs), specifically **AlexNet** and **VGG19**, on a custom dataset.
-
-The goal is to compare performance under different hyperparameter configurations and training setups.
 
 ---
 
