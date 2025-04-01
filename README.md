@@ -142,9 +142,7 @@ Now you can use JupiterLab for runing the filies!
 6. Run the style transfer notebooks with your own images to generate styled outputs.
 
 
-## Contributors
-
-These are the amazing people behind this project – including developers, researchers, and coordinators.
+## Authors
 
 <table>
   <tr>
