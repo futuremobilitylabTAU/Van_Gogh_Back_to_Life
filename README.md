@@ -88,6 +88,15 @@ Analogous to the AlexNet file, this documents **VGG19** hyperparameter search re
 
 ---
 
+You can download the best-performing models for each architecture below:
+
+- **Best AlexNet model**:  
+  [Download from SharePoint](https://tauex-my.sharepoint.com/:u:/g/personal/dadashev_tauex_tau_ac_il/EQ1jWbEhdKBPtR0gtbIrBQMBPOIz9LXHd8Ow2vZJdaj1MA?e=GuKEr8)
+
+- **Best VGG19 model**:  
+  [Download from SharePoint](https://tauex-my.sharepoint.com/:u:/g/personal/dadashev_tauex_tau_ac_il/EXrXLIu4_BpIt4V5UUEm1dIB44rYrqA6Aa2EHfVi1N-lpQ?e=wRK9G7)
+
+
 # Part 2:  Style Transfer
 
 <table>
