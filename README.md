@@ -1,3 +1,12 @@
+## Arthurs
+
+Thanks to all the contributors who made this project possible! 👇
+
+<a href="https://github.com/futuremobilitylabTAU/Van_Gogh_Back_to_Life/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=futuremobilitylabTAU/Van_Gogh_Back_to_Life" />
+</a>
+
+
 # Part 1: CNN Network Training & Evaluation – AlexNet & VGG19
 
 <table>
