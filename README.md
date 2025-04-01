@@ -150,20 +150,14 @@ These are the amazing people behind this project – including developers, resea
   <tr>
     <td align="center">
       <a href="https://github.com/gabidadashev">
-        <img src="https://github.com/gabidadashev.png" width="100px;" alt="Your Name"/><br />
+        <img src="https://github.com/gabidadashev.png" width="100px;" alt="Gabriel Dadashev"/><br />
         <sub><b>Gabriel Dadashev</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/nivdanieli">
-        <img src="https://github.com/nivdanieli.png" width="100px;" alt="Teammate 1"/><br />
+        <img src="https://github.com/nivdanieli.png" width="100px;" alt="Niv Danieli"/><br />
         <sub><b>Niv Danieli</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/futuremobilitylabTAU">
-        <img src="https://github.com/futuremobilitylabTAU.png" width="100px;" alt="Teammate 2"/><br />
-        <sub><b>Assinment Git</b></sub>
       </a>
     </td>
   </tr>
