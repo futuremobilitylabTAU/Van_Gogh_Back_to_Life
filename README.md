@@ -84,8 +84,10 @@ Compares different Style Transfer results. Includes side-by-side visualizations 
 
 Open Anaconda Prompt and run:
 
+```
 conda env create -f environment.yml
 conda activate cnn-style-transfer-env
+```
 
 Now you can use JupiterLab for runing the filies!
 
