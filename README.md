@@ -1,5 +1,20 @@
 # Part 1: CNN Network Training & Evaluation – AlexNet & VGG19
 
+<table>
+  <tr>
+    <th align="center">No Van Gogh!</th>
+    <th align="center">Yes Van Gogh!</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/futuremobilitylabTAU/Van_Gogh_Back_to_Life/blob/main/Classi/no_example.jpg" height="300"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/futuremobilitylabTAU/Van_Gogh_Back_to_Life/blob/main/Classi/yes_example.jpg" height="300"/>
+    </td>
+  </tr>
+</table>
+
 This repository contains code, data, and results for training and evaluating convolutional neural networks (CNNs), specifically **AlexNet** and **VGG19**, on a dataset.
 
 The goal is to compare model performance and evaluate their ability to **classify whether a given painting is by Van Gogh or not**.
