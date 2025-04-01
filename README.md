@@ -141,11 +141,3 @@ Now you can use JupiterLab for runing the filies!
 5. Use `Traning_Models_V3.ipynb` to train models.
 6. Run the style transfer notebooks with your own images to generate styled outputs.
 
-## Arthurs
-
-
-<a href="https://github.com/futuremobilitylabTAU/Van_Gogh_Back_to_Life/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=futuremobilitylabTAU/Van_Gogh_Back_to_Life" />
-</a>
-
-
