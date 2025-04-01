@@ -80,7 +80,16 @@ Compares different Style Transfer results. Includes side-by-side visualizations 
 ## Getting Started
 
 1. Clone the repository.
-2. Install dependencies (`torch`, `torchvision`, `matplotlib`, `pandas`, `scikit-learn`, etc.).
+2. Install dependencies from environment.yml.
+
+Open Anaconda Prompt and run:
+
+conda env create -f environment.yml
+conda activate cnn-style-transfer-env
+
+Now you can use JupiterLab for runing the filies!
+
+
 3. Run `DATA_AND_MODELS.ipynb` to load and preprocess data.
 4. Use `Traning_Hyper.ipynb` to search for optimal hyperparameters.
 5. Use `Traning_Models_V3.ipynb` to train models.
