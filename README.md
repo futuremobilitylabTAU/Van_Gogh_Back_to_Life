@@ -141,3 +141,30 @@ Now you can use JupiterLab for runing the filies!
 5. Use `Traning_Models_V3.ipynb` to train models.
 6. Run the style transfer notebooks with your own images to generate styled outputs.
 
+
+## Contributors
+
+These are the amazing people behind this project – including developers, researchers, and coordinators.
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/gabidadashev">
+        <img src="https://github.com/gabidadashev.png" width="100px;" alt="Your Name"/><br />
+        <sub><b>Gabriel Dadashev</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/nivdanieli">
+        <img src="https://github.com/nivdanieli.png" width="100px;" alt="Teammate 1"/><br />
+        <sub><b>Niv Danieli</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/futuremobilitylabTAU">
+        <img src="https://github.com/futuremobilitylabTAU.png" width="100px;" alt="Teammate 2"/><br />
+        <sub><b>Assinment Git</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
