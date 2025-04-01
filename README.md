@@ -22,8 +22,6 @@ The goal is to compare model performance and evaluate their ability to **classif
 
 ---
 
-## File Overview
-
 ### `Traning_Hyper.ipynb`
 Performs hyperparameter tuning for CNN models, including grid or random search over:
 - Learning rate
