@@ -32,6 +32,9 @@ Performs hyperparameter tuning for CNN models, including grid or random search o
 
 Results are logged and visualized to help select optimal parameters.
 
+<span style="color:red; font-weight:bold">You can view the results directly within the notebook.</span>
+
+
 ---
 
 ### `Traning_Models_V3.ipynb`
@@ -42,6 +45,8 @@ Includes:
 - Training and validation loops  
 - Performance logging  
 - Saving models and results
+
+<span style="color:red; font-weight:bold">You can view the results directly within the notebook.</span>
 
 ---
 
@@ -103,8 +108,16 @@ Analogous to the AlexNet file, this documents **VGG19** hyperparameter search re
 ### `Style_Transfer_V2.ipynb`
 Implements neural style transfer using PyTorch. Includes loading content/style images, computing losses, and optimizing the generated image using gradients.
 
+<span style="color:red; font-weight:bold">
+Due to file size limitations, the output cannot be displayed directly on GitHub.  
+To view the results, please download the notebook to your local machine and open it there.
+</span>
+
+
 ### `Style_Transfer_Evaluation.ipynb`
 Compares different Style Transfer results. Includes side-by-side visualizations and optional metric-based evaluation.
+
+<span style="color:red; font-weight:bold">You can view the results directly within the notebook.</span>
 
 ---
 
