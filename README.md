@@ -62,13 +62,13 @@ Serves as a **class module** used by other notebooks.
 
 ## Output Directories
 
-### `Alex_RESULTS`
+### `Alex_DATA`
 Contains outputs and logs from training **AlexNet**, such as:
 - Accuracy/loss plots  
 - Confusion matrices  
 - Saved weights/checkpoints
 
-### `VGG_RESULTS`
+### `VGG_DATA`
 Same as above, but for **VGG19** training sessions.
 
 ---
