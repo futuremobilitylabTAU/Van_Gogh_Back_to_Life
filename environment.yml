@@ -1,0 +1,25 @@
+name: cnn-style-transfer-env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - ipykernel
+  - notebook
+  - jupyterlab
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - pillow
+  - tqdm
+  - seaborn
+  - opencv
+  - pytorch
+  - torchvision
+  - pip:
+      - import-ipynb
+      - optuna
+      - wandb
+      - unidecode
