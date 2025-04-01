@@ -63,3 +63,25 @@ The JSON is updated **only if** the new configuration shows improved results.
 
 ### `best_params_history_VGG19.json`
 Analogous to the AlexNet file, this documents **VGG19** hyperparameter search results.
+
+
+---
+
+# Part 2: Neural Style Transfer
+
+**Style_Transfer_V2.ipynb**  
+Implements neural style transfer using PyTorch. Includes loading content/style images, computing losses, and optimizing the generated image using gradients.
+
+**Style_Transfer_Evaluation.ipynb**  
+Compares different NST results. Includes side-by-side visualizations and optional metric-based evaluation.
+
+---
+
+## Getting Started
+
+1. Clone the repository.
+2. Install dependencies (`torch`, `torchvision`, `matplotlib`, `pandas`, `scikit-learn`, etc.).
+3. Run `DATA_AND_MODELS.ipynb` to load and preprocess data.
+4. Use `Traning_Hyper.ipynb` to search for optimal hyperparameters.
+5. Use `Traning_Models_V3.ipynb` to train models.
+6. Run the style transfer notebooks with your own images to generate styled outputs.
