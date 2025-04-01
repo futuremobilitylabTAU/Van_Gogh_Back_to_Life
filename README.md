@@ -2,8 +2,8 @@
 
 <table>
   <tr>
-    <th align="center">No Van Gogh!</th>
-    <th align="center">Yes Van Gogh!</th>
+    <th align="center">No Van Gogh! (on AlexNet & VGG19)</th>
+    <th align="center">Yes Van Gogh! (on AlexNet & VGG19)</th>
   </tr>
   <tr>
     <td align="center">
