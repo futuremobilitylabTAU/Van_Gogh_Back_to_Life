@@ -1,3 +1,20 @@
+<table>
+  <tr>
+    <th align="center">Before (AlexNet)</th>
+    <th align="center">After (VGG19)</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/futuremobilitylabTAU/Van_Gogh_Back_to_Life/blob/main/Content/18.jpg?raw=true" height="300"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/futuremobilitylabTAU/Van_Gogh_Back_to_Life/blob/main/VGG19/18.jpg?raw=true" height="300"/>
+    </td>
+  </tr>
+</table>
+
+
+
 # Part 1: Neural Network Training & Evaluation – AlexNet & VGG19
 
 This repository contains code, data, and results for training and evaluating convolutional neural networks (CNNs), specifically **AlexNet** and **VGG19**, on a custom dataset.
